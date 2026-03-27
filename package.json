@@ -1,0 +1,13 @@
+{
+  "name": "tp02dai_kracovitz_rodriguez",
+  "version": "1.0.0",
+  "description": "Introduccion a Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kraco y Chicha",
+  "license": "ISC",
+  "type": "module"
+}
