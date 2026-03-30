@@ -1,4 +1,6 @@
 let string1 = "Hola"
 let string2 = "buenos dias"
 
-console.log(`${string1} ${string2}`)
+function darVuelta(string1, string2) {
+    return `${string2} ${string1}`;
+}
