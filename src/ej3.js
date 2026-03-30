@@ -1,2 +1,4 @@
+import Alumno from './models/alumno.js'
+
 const usuario = new Alumno("nicofrenkel" , 49261981)
-console.log(usuario.username, usuario.dni)
+console.log(`Nombre: ${usuario.username} \nDNI: ${usuario.dni}`)

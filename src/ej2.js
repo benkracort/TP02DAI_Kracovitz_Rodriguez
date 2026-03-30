@@ -1,4 +1,4 @@
-import { resolvente, areaCirculo, sumar, restar } from './modules/matematica.js';
+import { resolvente, areaCirculo, sumar, restar } from './modules/matematica.js'
 
 resolvente(1, -3, 2) // Raíces reales distintas
 resolvente(1, -2, 1) // Raíz doble
